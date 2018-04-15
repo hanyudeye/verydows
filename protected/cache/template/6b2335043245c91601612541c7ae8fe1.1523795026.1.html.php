@@ -1,1 +1,0 @@
-<?php if(!class_exists("View", false)) exit("no direct access allowed");?><img src="http://demo.verydows.com/upload/adv/image/56e6a9d26d76d3GZ7ISlt5y10455.jpg" width="630" height="240" alt="VIVO Xplay5 快无边界" border="0">

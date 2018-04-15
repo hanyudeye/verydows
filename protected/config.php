@@ -8,7 +8,6 @@ return array
         'MYSQL_HOST' => 'localhost',
         'MYSQL_PORT' => '3306',
         'MYSQL_USER' => 'root',
-        // 'MYSQL_DB'   => 'verydows',
         'MYSQL_DB'   => 'shop1',
         'MYSQL_PASS' => 'wuming',
         'MYSQL_DB_TABLE_PRE' => 'verydows_',

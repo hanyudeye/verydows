@@ -3,7 +3,7 @@
 # Verydows Database Backup
 # Program: Verydows 2.0 Release 20161112
 # MySql: 5.7.21-0ubuntu0.16.04.1 
-# Database: shop1 
+# Database: verydows
 # Creation: 2018-04-15 20:11:22
 # Official: http://www.verydows.com
 # -------------------------------------------------------------
